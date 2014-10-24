@@ -91,6 +91,9 @@ ANSI Dvorak layout
 My Albianian Dvorak layout
 
   1234567890[]
-  ',.pyfgcrl/=\
-   aëeuidhtns-
-   ;qjkxbmwvz
+  ',opyfgcrl/=\
+   aëeuidhtnz-
+   .qjkxbmsvç
+
+I have replaced the "<" (Maj-",") and ">" (Maj-".") characters with
+";" and ":", respectively.
