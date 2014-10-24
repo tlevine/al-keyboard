@@ -2,7 +2,7 @@ Keyboards for Albanian language in Dvorak and Colemak styles.
 
 Install
 
-    g clone git@github.com:tlevine/al-keyboard
+    git clone git@github.com:tlevine/al-keyboard
     cd al-keyboard
     sudo make install
 
