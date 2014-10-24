@@ -1,3 +1,4 @@
+#!/usr/bin/env Rscript
 library(ggplot2)
 
 f <- read.csv('frequencies.csv', stringsAsFactors = FALSE)
@@ -26,4 +27,4 @@ p <- ggplot(f) +
        ylab('Language') +
        scale_color_discrete('Letter language')
 
-ggsave('letter-usage.png', p, width = 8, height = 4.5)
+ggsave('letter-usage.png', p, width = 16, height = 9)
