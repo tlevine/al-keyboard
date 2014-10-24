@@ -105,9 +105,9 @@ Here's the ANSI Dvorak layout
 And here's my Albianian Dvorak layout
 
   1234567890[]
-  ',,oopyfgcrl/=\
-   aëëeuidhtnzz-
-   ..qjkxbmssvçç
+  ',opyfgcrl/=\
+   aëeuidhtnz-
+   .qjkxbmsvç
 
 I have replaced the "<"/less (Maj-",") and ">"/greater (Maj-".")
 characters with ";" and ":", respectively.
@@ -125,8 +125,8 @@ Here's the English Colemak layout.
 And here's my Albanian Colemak layout.
 
   1234567890-=
-  qoofpgjluyçç[]\
-   arzztdhneëëi'
+  qofpgjluyç[]\
+   arztdhneëi'
    zxcvbkm,./
 
 I need to figure out where to put the "s".
