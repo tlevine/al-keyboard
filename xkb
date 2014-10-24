@@ -1,7 +1,7 @@
 default  partial alphanumeric_keys modifier_keys
 xkb_symbols "basic" {
 
-    name[Group1]= "English (US)";
+    name[Group1]= "Albanian";
 
     key <TLDE> {	[     grave,	asciitilde	]	};
     key <AE01> {	[	  1,	exclam 		]	};
@@ -59,7 +59,7 @@ xkb_symbols "basic" {
 partial alphanumeric_keys
 xkb_symbols "dvorak" {
 
-    name[Group1]= "English (Dvorak)";
+    name[Group1]= "Albanian (Dvorak)";
 
     key <TLDE> { [       grave,	asciitilde, dead_grave, dead_tilde	] };
 
