@@ -72,6 +72,15 @@ English
 
 (From http://www.math.cornell.edu/~mec/2003-2004/cryptography/subs/frequencies.html)
 
+
+These letters are much more common in Albanian:
+ë, z, m
+
+These letters are much less common in Albanian:
+o, 
+
+The counts of multi-character letters mess up some of these figures.
+
 ANSI Dvorak layout
 
   1234567890[]
@@ -83,5 +92,5 @@ My Albianian Dvorak layout
 
   1234567890[]
   ',.pyfgcrl/=\
-   aoeuidhtns-
+   aëeuidhtns-
    ;qjkxbmwvz
