@@ -1,4 +1,16 @@
-Let's make keyboards for Albanian language in Dvorak and Colemak styles.
+Keyboards for Albanian language in Dvorak and Colemak styles.
+
+Install
+
+    sudo make install
+
+Use
+
+    setxkbmap al
+    setxkbmap al -variant dvorak
+    setxkbmap al -variant colemak
+
+Documentation on the construction of the layouts follows.
 
 LETTER FREQUENCIES
 
