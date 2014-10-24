@@ -25,3 +25,5 @@ p <- ggplot(f) +
        xlab('Usage rate of the letter') +
        ylab('Language') +
        scale_color_discrete('Letter language')
+
+ggsave('letter-usage.png', p, width = 8, height = 4.5)
