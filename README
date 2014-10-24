@@ -81,33 +81,40 @@ o,
 
 The counts of multi-character letters mess up some of these figures.
 
-ANSI Dvorak layout
+DVORAK LAYOUTS
+
+Here's the ANSI Dvorak layout
 
   1234567890[]
   ',.pyfgcrl/=\
    aoeuidhtns-
    ;qjkxbmwvz
 
-My Albianian Dvorak layout
+And here's my Albianian Dvorak layout
 
   1234567890[]
   ',,oopyfgcrl/=\
    aëëeuidhtnzz-
    ..qjkxbmssvçç
 
-Colemak layout
-
-  1234567890-=
-  qwfpgjluy;[]\
-   arstdhneio'
-   zxcvbkm,./
-
-My Albanian Colemak layout
-
-  1234567890-=
-  qwfpgjluy;[]\
-   arstdhneio'
-   zxcvbkm,./
-
 I have replaced the "<"/less (Maj-",") and ">"/greater (Maj-".")
 characters with ";" and ":", respectively.
+
+
+COLEMAK LAYOUTS
+
+Here's the English Colemak layout.
+
+  1234567890-=
+  qwfpgjluy;[]\
+   arstdhneio'
+   zxcvbkm,./
+
+And here's my Albanian Colemak layout.
+
+  1234567890-=
+  qoofpgjluyçç[]\
+   arzztdhneëëi'
+   zxcvbkm,./
+
+I need to figure out where to put the "s".
