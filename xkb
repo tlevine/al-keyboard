@@ -124,8 +124,8 @@ xkb_symbols "dvorak" {
     key <AE12> { [ bracketright, braceright,  dead_tilde] };
 
     key <AD01> { [  apostrophe,	quotedbl, dead_acute, dead_diaeresis	] };
-    key <AD02> { [	comma,	less,   dead_cedilla, dead_caron	] };
-    key <AD03> { [      period,	greater, dead_abovedot, periodcentered	] };
+    key <AD02> { [	comma,	semicolon,   dead_cedilla, dead_caron	] };
+    key <AD03> { [	    o,	O		]	};
     key <AD04> { [	    p,	P		]	};
     key <AD05> { [	    y,	Y		]	};
     key <AD06> { [	    f,	F		]	};
@@ -137,7 +137,7 @@ xkb_symbols "dvorak" {
     key <AD12> { [	equal,	plus		]	};
 
     key <AC01> { [	    a,	A 		]	};
-    key <AC02> { [	    o,	O		]	};
+    key <AC02> { [ ediaeresis, Ediaeresis ] };
     key <AC03> { [	    e,	E		]	};
     key <AC04> { [	    u,	U		]	};
     key <AC05> { [	    i,	I		]	};
@@ -145,25 +145,19 @@ xkb_symbols "dvorak" {
     key <AC07> { [	    h,	H		]	};
     key <AC08> { [	    t,	T		]	};
     key <AC09> { [	    n,	N		]	};
-    key <AC10> { [	    s,	S		]	};
+    key <AC10> { [	    z,	Z		]	};
     key <AC11> { [	minus,	underscore	]	};
 
-    key <AB01> { [   semicolon,	colon, dead_ogonek, dead_doubleacute ] };
+    key <AB01> { [      period,	colon, dead_abovedot, periodcentered	] };
     key <AB02> { [	    q,	Q		]	};
     key <AB03> { [	    j,	J		]	};
     key <AB04> { [	    k,	K		]	};
     key <AB05> { [	    x,	X		]	};
     key <AB06> { [	    b,	B		]	};
     key <AB07> { [	    m,	M		]	};
-    key <AB08> { [	    w,	W		]	};
+    key <AB08> { [	    s,	S		]	};
     key <AB09> { [	    v,	V		]	};
-    key <AB10> { [	    z,	Z		]	};
+    key <AB10> { [ ccedilla, Ccedilla ] };
 
     key <BKSL> { [  backslash,  bar             ]       };
 };
-
-
-
-
-  key <AD11> { [ ccedilla, Ccedilla ] };
-  key <AC10> { [ ediaeresis, Ediaeresis ] };
