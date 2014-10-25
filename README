@@ -10,9 +10,10 @@ Install
 
 Use
 
-    setxkbmap al
-    setxkbmap al -variant dvorak
-    setxkbmap al -variant colemak
+    setxkbmap -layout al
+    setxkbmap -layout al -variant plisi-d1
+    setxkbmap -layout al -variant dvorak
+    setxkbmap -layout al -variant colemak
 
 Documentation on the construction of the layouts follows.
 
