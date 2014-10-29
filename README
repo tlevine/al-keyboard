@@ -114,9 +114,15 @@ And here's my Albianian Dvorak layout
    aëeuidhtnz-
    .qjkxbmsvç
 
-I have replaced the "<"/less (Maj-",") and ">"/greater (Maj-".")
-characters with ";" and ":", respectively.
+There are some other changes that the above diagram does not express.
+I have moved the positions of ":", ";", "<" and ">".
 
+* Rather than having their own key, ":" and ";" are now the
+  majescule/shifted/capitalized versions of "." and ",", respectively.
+* "<" and ">" are on the same keys as they previously were, but they
+  are now the alt version rather than the shift version. That is,
+  alt-, produces "<", and alt-o produces ">".
+* alt-e produces ""
 
 COLEMAK LAYOUTS
 
