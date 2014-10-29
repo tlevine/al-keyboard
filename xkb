@@ -6,7 +6,7 @@
 default  partial alphanumeric_keys
 xkb_symbols "basic" {
 
-//  include "latin(type3)"
+    include "latin(type3)"
 
     name[Group1]="Albanian";
 
