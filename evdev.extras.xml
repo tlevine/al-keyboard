@@ -1,0 +1,34 @@
+Try adding this to /usr/share/X11/xkb/rules/evdev.extras.xml,
+or to evdev.extras.xml wherever it is.
+
+    <layout>
+      <configItem>
+        <name>al</name>
+        <_shortDescription>sq</_shortDescription>
+        <_description>Albanian</_description>
+        <languageList>
+          <iso639Id>alb</iso639Id>
+        </languageList>
+      </configItem>
+      <variantList>
+        <variant>
+          <configItem>
+            <name>dvorak</name>
+            <_shortDescription>sq</_shortDescription>
+            <_description>Albanian (Dvorak)</_description>
+          </configItem>
+        </variant>
+      </variantList>
+    </layout>
+
+
+On 13 Jun 15:45, Thomas Levine wrote:
+>       <variantList>
+>         <variant>
+>           <configItem>
+>             <name>dvorak</name>
+>             <_shortDescription>sq</_shortDescription>
+>             <_description>Albanian (Dvorak)</_description>
+>           </configItem>
+>         </variant>
+>       </variantList>
